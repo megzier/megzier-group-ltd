@@ -1,112 +1,126 @@
 window.MEGZIER_POSTS = [
     {
-        "id": "faster-website-more-leads-2026",
-        "slug": "faster-website-more-leads-2026",
-        "title": "NIKUMOTO",
-        "subtitle": "G TEST",
-        "category": "Web Design",
-        "excerpt": "A faster website lowers bounce rates, keeps visitors reading, and makes your contact button easier to reach.",
-        "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&q=80",
-        "imageAlt": "Laptop screen with code and website performance work",
-        "publishDate": "2026-04-27",
-        "readingTime": "1 min",
+        "id": "travel-hospitality-websites-2026",
+        "slug": "travel-hospitality-websites-2026",
+        "title": "Travel and Hospitality Websites That Win Direct Bookings",
+        "subtitle": "What Zaya Travels and Mokawa Group show about booking-first design.",
+        "category": "Case Study",
+        "excerpt": "Travel and hospitality sites need fast search, clear packages, and a simple booking flow that works on mobile.",
+        "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=1200&q=80",
+        "imageAlt": "Travel booking and hospitality website on a laptop",
+        "publishDate": "2026-05-16",
+        "readingTime": "2 min",
         "featured": true,
         "tags": [
-            "Web Design",
-            "Performance",
-            "Leads",
-            "Mobile"
+            "Travel",
+            "Hospitality",
+            "Bookings",
+            "Website Design"
         ],
         "keywords": [
-            "website speed",
-            "conversion",
-            "mobile",
-            "performance",
-            "business leads"
+            "travel website development",
+            "hospitality website",
+            "direct bookings",
+            "Mokawa Group",
+            "Zaya Travels and Tours"
         ],
         "shareTargets": [
             "linkedin",
             "facebook",
             "tiktok"
         ],
-        "seoTitle": "How a Faster Website Gets More Leads Without More Ads | Megzier Group Ltd",
-        "seoDescription": "A faster website lowers bounce rates, keeps visitors reading, and makes your contact button easier to reach.",
-        "socialCaption": "A faster website does more than look polished.\n\nIt keeps visitors engaged, improves trust, and makes it easier for people to contact your business.\n\nRead more on Megzier Group Ltd.\n\n#webdesign #websiteperformance #leadgeneration",
-        "body": "# How a Faster Website Gets More Leads Without More Ads\n\nA website that loads quickly keeps visitors reading. It also makes your contact button feel closer, because people do not want to wait for a slow page.\n\n## What usually slows a site down\n\n- Large images\n- Too many scripts\n- Cheap hosting\n- Heavy sliders\n- Unused plugins\n\n## What to improve first\n\nUse compressed images, simplify the layout, and test the site on mobile before you launch. The quickest wins usually come from the most visible pages, especially the homepage and service pages.\n\n## Why it matters\n\nSpeed affects more than comfort. It changes whether people stay long enough to read, trust the offer, and take the next step.",
+        "seoTitle": "Travel and Hospitality Websites That Win Direct Bookings | Megzier Group Ltd",
+        "seoDescription": "Travel and hospitality sites need fast search, clear packages, and a simple booking flow that works on mobile.",
+        "socialCaption": "Travel and hospitality websites convert when the booking path is simple, fast, and trustworthy.\n\nRead more on Megzier Group Ltd.\n\n#travelwebsite #hospitality #webdesign",
+        "body": "# Travel and Hospitality Websites That Win Direct Bookings\n\nA travel or hospitality website has one job: help a visitor understand the offer and book quickly. For Zaya Travels and Tours and Mokawa Group, that means clear service pages, mobile-first layout, and strong calls to action.\n\n## What matters most\n\n- Fast search and booking flow\n- Clear service packages\n- Trust signals and testimonials\n- WhatsApp and email contact options\n\n## What Megzier focuses on\n\nMegzier Group Ltd builds booking journeys that reduce friction and make it easy for people to inquire, compare, and convert.\n\n## Why it ranks\n\nTravel queries often start with location, service, and trust. A strong site structure helps your business show up for those searches and keeps visitors moving toward the booking button.",
         "status": "published",
-        "ctaText": "Request a speed review",
-        "ctaUrl": "../index.html#contact",
+        "ctaText": "View the booking features",
+        "ctaUrl": "../contact.html",
         "author": "Megzier Group Ltd",
-        "createdAt": "2026-04-05T09:00:00+03:00",
-        "updatedAt": "2026-04-27T17:44:26+00:00"
+        "createdAt": "2026-05-16T09:00:00+03:00",
+        "updatedAt": "2026-05-16T09:00:00+03:00"
     },
     {
-        "id": "siaka",
-        "slug": "siaka",
-        "title": "SIAKA",
-        "subtitle": "NO MOVING OUT TO THE CYBER ANYMORE",
-        "category": "Blog",
-        "excerpt": "",
-        "image": "",
-        "imageAlt": "RGHGFEWQ",
-        "publishDate": "2026-04-27",
-        "readingTime": "1 min",
+        "id": "healthcare-ngo-websites-2026",
+        "slug": "healthcare-ngo-websites-2026",
+        "title": "Healthcare and NGO Websites That Build Trust Faster",
+        "subtitle": "Lessons from Eskin Medicare and Rachum International Foundation.",
+        "category": "Healthcare",
+        "excerpt": "Healthcare and NGO sites need clear services, strong trust signals, and easy contact paths for the public.",
+        "image": "https://images.unsplash.com/photo-1576765607924-3f7b8410a787?w=1200&q=80",
+        "imageAlt": "Healthcare and community support website concept",
+        "publishDate": "2026-05-16",
+        "readingTime": "2 min",
         "featured": true,
         "tags": [
-            "SERTJHMHGTR THRGE"
+            "Healthcare",
+            "NGO",
+            "Trust",
+            "Website Design"
         ],
         "keywords": [
-            "DFGHGFGERWEC E"
+            "healthcare website",
+            "NGO website",
+            "Eskin Medicare",
+            "Rachum International Foundation",
+            "trust signals"
         ],
         "shareTargets": [
             "linkedin",
             "facebook",
             "tiktok"
         ],
-        "seoTitle": "DFGHFGDF",
-        "seoDescription": "DFGHN",
-        "socialCaption": "RTYHJHRGE",
-        "body": "",
+        "seoTitle": "Healthcare and NGO Websites That Build Trust Faster | Megzier Group Ltd",
+        "seoDescription": "Healthcare and NGO sites need clear services, strong trust signals, and easy contact paths for the public.",
+        "socialCaption": "Healthcare and NGO websites must communicate trust quickly.\n\nRead more on Megzier Group Ltd.\n\n#healthcarewebsite #ngo #webdesign",
+        "body": "# Healthcare and NGO Websites That Build Trust Faster\n\nPeople visiting healthcare or nonprofit websites are usually looking for answers, reassurance, or support. For Eskin Medicare and Rachum International Foundation, that means clear service pages, visible contact options, and a structure that works on mobile.\n\n## What trust looks like online\n\n- Clear service descriptions\n- Contact and booking actions above the fold\n- Real credentials and team information\n- Simple navigation that does not overwhelm\n\n## Why it matters\n\nA well-built site removes doubt. It helps users understand the mission, the offer, and the next step without having to guess.\n\n## What Megzier builds\n\nMegzier Group Ltd builds healthcare and nonprofit websites that make services easier to understand and easier to trust.",
         "status": "published",
-        "ctaText": "FGHGHFD",
-        "ctaUrl": "",
+        "ctaText": "See the trust signals",
+        "ctaUrl": "../contact.html",
         "author": "Megzier Group Ltd",
-        "createdAt": "",
-        "updatedAt": "2026-04-27T17:47:56+00:00"
+        "createdAt": "2026-05-16T09:30:00+03:00",
+        "updatedAt": "2026-05-16T09:30:00+03:00"
     },
     {
-        "id": "bbbbbbbbbbb",
-        "slug": "bbbbbbbbbbb",
-        "title": "bbbbbbbbbbb",
-        "subtitle": "bbbbbbbbbb",
-        "category": "Blog",
-        "excerpt": "bbbbbbbb",
-        "image": "/images/blog/whatsapp-image-2026-04-22-at-105947-20260427180419.jpg",
-        "imageAlt": "bbbbbbbbb",
-        "publishDate": "2026-04-27",
-        "readingTime": "1 min",
+        "id": "product-tools-convert-better-2026",
+        "slug": "product-tools-convert-better-2026",
+        "title": "Why Product Tools Like FreePDFEdit and MegzierAI Convert Better",
+        "subtitle": "Simple interfaces, sharper value, and faster workflows win.",
+        "category": "Product",
+        "excerpt": "Products convert when the first screen explains the value and the next step is obvious.",
+        "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&q=80",
+        "imageAlt": "Product workflow and SaaS dashboard concept",
+        "publishDate": "2026-05-16",
+        "readingTime": "2 min",
         "featured": true,
         "tags": [
-            "bbbbbbbbbbb"
+            "Product",
+            "SaaS",
+            "Conversion",
+            "Workflow"
         ],
         "keywords": [
-            "vbbbbbbbbbb"
+            "FreePDFEdit",
+            "MegzierAI Humanizer",
+            "product website",
+            "SaaS design",
+            "conversion"
         ],
         "shareTargets": [
             "linkedin",
             "facebook",
             "tiktok"
         ],
-        "seoTitle": "bbbbbbbbbb",
-        "seoDescription": "bbbbbbbb",
-        "socialCaption": "bbbbbbbbbbb\n\nbbbbbbbb\n\nRead more on Megzier Group Ltd.\n\n#bbbbbbbbbbb",
-        "body": "",
+        "seoTitle": "Why Product Tools Like FreePDFEdit and MegzierAI Convert Better | Megzier Group Ltd",
+        "seoDescription": "Products convert when the first screen explains the value and the next step is obvious.",
+        "socialCaption": "Product tools convert when the value is obvious and the workflow is fast.\n\nRead more on Megzier Group Ltd.\n\n#saas #productdesign #conversion",
+        "body": "# Why Product Tools Like FreePDFEdit and MegzierAI Convert Better\n\nProduct-led websites need a clean layout, a strong value proposition, and a workflow that feels simple from the first click. FreePDFEdit and MegzierAI Humanizer both benefit from clear messaging and a focused call to action.\n\n## What works on product pages\n\n- One clear primary action\n- A short explanation of value\n- Fast onboarding or trial steps\n- Proof that the tool works in the browser\n\n## Why it ranks\n\nSearchers looking for tools often compare options quickly. A strong landing page helps them understand the product before they leave the page.\n\n## What Megzier does\n\nMegzier Group Ltd builds product sites that convert traffic into users, signups, and repeat visitors.",
         "status": "published",
-        "ctaText": "bbbbbb",
-        "ctaUrl": "",
+        "ctaText": "See the product workflow",
+        "ctaUrl": "../contact.html",
         "author": "Megzier Group Ltd",
-        "createdAt": "",
-        "updatedAt": "2026-04-27T18:04:43+00:00"
+        "createdAt": "2026-05-16T10:00:00+03:00",
+        "updatedAt": "2026-05-16T10:00:00+03:00"
     },
     {
         "id": "cybersecurity-audit-2026",
@@ -117,7 +131,7 @@ window.MEGZIER_POSTS = [
         "excerpt": "Cyber attacks on small and mid-sized businesses are rising because weak passwords, shared logins, and missing backups make easy targets.",
         "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
         "imageAlt": "Cybersecurity team reviewing data protection controls",
-        "publishDate": "2026-03-10",
+        "publishDate": "2026-05-11",
         "readingTime": "1 min",
         "featured": true,
         "tags": [
@@ -147,7 +161,7 @@ window.MEGZIER_POSTS = [
         "ctaUrl": "../index.html#contact",
         "author": "Megzier Group Ltd",
         "createdAt": "2026-03-10T09:00:00+03:00",
-        "updatedAt": "2026-04-27T17:24:24+00:00"
+        "updatedAt": "2026-05-11T00:00:00+03:00"
     },
     {
         "id": "portfolio-that-builds-trust-2026",
@@ -158,7 +172,7 @@ window.MEGZIER_POSTS = [
         "excerpt": "Good portfolio entries show the problem, the process, and the result.",
         "image": "https://images.unsplash.com/photo-1559028012-481c04fa702d?w=1200&q=80",
         "imageAlt": "Website portfolio mockups displayed on a modern desk",
-        "publishDate": "2026-04-26",
+        "publishDate": "2026-05-11",
         "readingTime": "2 min",
         "featured": false,
         "tags": [
@@ -188,7 +202,7 @@ window.MEGZIER_POSTS = [
         "ctaUrl": "../pages/portfolio.html",
         "author": "Megzier Group Ltd",
         "createdAt": "2026-04-26T09:00:00+03:00",
-        "updatedAt": "2026-04-27T17:15:14+00:00"
+        "updatedAt": "2026-05-11T00:00:00+03:00"
     },
     {
         "id": "website-maintenance-plan-2026",
@@ -199,7 +213,7 @@ window.MEGZIER_POSTS = [
         "excerpt": "Maintenance is what keeps a live site secure, up to date, and ready when visitors arrive.",
         "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&q=80",
         "imageAlt": "Website dashboard and maintenance planning on a laptop",
-        "publishDate": "2026-04-22",
+        "publishDate": "2026-05-11",
         "readingTime": "2 min",
         "featured": false,
         "tags": [
@@ -229,7 +243,7 @@ window.MEGZIER_POSTS = [
         "ctaUrl": "../index.html#contact",
         "author": "Megzier Group Ltd",
         "createdAt": "2026-04-22T09:00:00+03:00",
-        "updatedAt": "2026-04-27T17:15:14+00:00"
+        "updatedAt": "2026-05-11T00:00:00+03:00"
     },
     {
         "id": "social-content-workflow-2026",
@@ -240,7 +254,7 @@ window.MEGZIER_POSTS = [
         "excerpt": "A single blog post can become a LinkedIn update, a Facebook summary, and a short TikTok script.",
         "image": "https://images.unsplash.com/photo-1611162618071-b39a2ec1e8c1?w=1200&q=80",
         "imageAlt": "Phone and social media creation workflow on a desk",
-        "publishDate": "2026-04-18",
+        "publishDate": "2026-05-11",
         "readingTime": "2 min",
         "featured": false,
         "tags": [
@@ -270,7 +284,7 @@ window.MEGZIER_POSTS = [
         "ctaUrl": "../index.html#contact",
         "author": "Megzier Group Ltd",
         "createdAt": "2026-04-18T09:00:00+03:00",
-        "updatedAt": "2026-04-27T17:15:14+00:00"
+        "updatedAt": "2026-05-11T00:00:00+03:00"
     },
     {
         "id": "seo-basics-nairobi-2026",
@@ -281,7 +295,7 @@ window.MEGZIER_POSTS = [
         "excerpt": "Local businesses grow faster when their pages match the words customers actually search for.",
         "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&q=80",
         "imageAlt": "Analytics chart showing search and traffic growth",
-        "publishDate": "2026-04-12",
+        "publishDate": "2026-05-11",
         "readingTime": "2 min",
         "featured": false,
         "tags": [
@@ -311,6 +325,6 @@ window.MEGZIER_POSTS = [
         "ctaUrl": "../index.html#contact",
         "author": "Megzier Group Ltd",
         "createdAt": "2026-04-12T09:00:00+03:00",
-        "updatedAt": "2026-04-27T17:15:14+00:00"
+        "updatedAt": "2026-05-11T00:00:00+03:00"
     }
 ];

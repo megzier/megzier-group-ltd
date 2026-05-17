@@ -4,7 +4,7 @@
   }
 
   function postUrl(post) {
-    return `post.html?slug=${encodeURIComponent(post.slug)}`;
+    return `blog-details.html?slug=${encodeURIComponent(post.slug)}`;
   }
 
   function currentPageUrl(post) {

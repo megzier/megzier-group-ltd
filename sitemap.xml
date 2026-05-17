@@ -11,67 +11,157 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://megzier.com/pages/about.html</loc>
+    <loc>https://megzier.com/about.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://megzier.com/pages/services.html</loc>
+    <loc>https://megzier.com/ai-agency.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://megzier.com/pages/portfolio.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://megzier.com/pages/blog.html</loc>
+    <loc>https://megzier.com/blog.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://megzier.com/index_fixed.html</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <loc>https://megzier.com/blog-details.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://megzier.com/pages/post.html?slug=faster-website-more-leads-2026</loc>
+    <loc>https://megzier.com/blog-grid.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://megzier.com/blog-list.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://megzier.com/business-consulting.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://megzier.com/contact.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://megzier.com/digital-marketing.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://megzier.com/faq.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://megzier.com/gallery.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://megzier.com/it-services.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://megzier.com/pricing.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://megzier.com/project.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://megzier.com/project-details.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://megzier.com/pages/post.html?slug=siaka</loc>
+    <loc>https://megzier.com/sass.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://megzier.com/service.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://megzier.com/service-details.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://megzier.com/pages/post.html?slug=bbbbbbbbbbb</loc>
+    <loc>https://megzier.com/software-agency.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://megzier.com/startup.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://megzier.com/team.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://megzier.com/team-details.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://megzier.com/pages/post.html?slug=cybersecurity-audit-2026</loc>
+    <loc>https://megzier.com/web-design-agency.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+    <url>
+    <loc>https://megzier.com/blog-details.html?slug=travel-hospitality-websites-2026</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://megzier.com/pages/post.html?slug=portfolio-that-builds-trust-2026</loc>
+    <loc>https://megzier.com/blog-details.html?slug=healthcare-ngo-websites-2026</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://megzier.com/pages/post.html?slug=website-maintenance-plan-2026</loc>
+    <loc>https://megzier.com/blog-details.html?slug=product-tools-convert-better-2026</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://megzier.com/pages/post.html?slug=social-content-workflow-2026</loc>
+    <loc>https://megzier.com/blog-details.html?slug=cybersecurity-audit-2026</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://megzier.com/pages/post.html?slug=seo-basics-nairobi-2026</loc>
+    <loc>https://megzier.com/blog-details.html?slug=portfolio-that-builds-trust-2026</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://megzier.com/blog-details.html?slug=website-maintenance-plan-2026</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://megzier.com/blog-details.html?slug=social-content-workflow-2026</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://megzier.com/blog-details.html?slug=seo-basics-nairobi-2026</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
