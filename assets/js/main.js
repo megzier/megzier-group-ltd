@@ -10,27 +10,26 @@ Description: Megzier Group Ltd marketing, software, web, and IT website
 JS TABLE OF CONTENTS
 -------------------------------------------------------------------
 
-01. Loader
-02. Scroll to Top
-03. magnificPopup
-04. Smooth Scrolling
-05. Tilt Hover
-06. Popup Search
-07. Mobile Menu
-08. Ajax Form
-09. Masonary Function
-10. Shape Mockup Function
-11. Counter Odometer
-12. Progress Line
-13. Custom Select
-14. Custom Date Select
-15. Form Validation
-16. Marquee Mode
-17. Side Box
-18. wow Animation
-19.chart Container
-20.title Animation
-21.Swiper Slider
+01. Scroll to Top
+02. magnificPopup
+03. Smooth Scrolling
+04. Tilt Hover
+05. Popup Search
+06. Mobile Menu
+07. Ajax Form
+08. Masonary Function
+09. Shape Mockup Function
+10. Counter Odometer
+11. Progress Line
+12. Custom Select
+13. Custom Date Select
+14. Form Validation
+15. Marquee Mode
+16. Side Box
+17. wow Animation
+18.chart Container
+19.title Animation
+20.Swiper Slider
 
 ------------------------------------------------------------------*/
 
@@ -41,7 +40,6 @@ JS TABLE OF CONTENTS
 		=    On Load Function      =
 	=============================================*/
 	$(window).on("load", function () {
-		preLoader();
 		magicCursor();
 		smoothScrolling();
 		tiltHover();
@@ -77,22 +75,6 @@ JS TABLE OF CONTENTS
 	});
 
 	scrollTop();
-
-
-
-	/*===========================================
-		=         Loader         =
-	=============================================*/
-	function preLoader() {
-		$("#loader-fade").fadeOut(800, function () {
-			$(this).remove();
-		});
-	}
-
-
-
-
-
 
 
 
