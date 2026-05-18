@@ -199,7 +199,7 @@ window.MEGZIER_POSTS = [
         "body": "# Why a Strong Portfolio Sells Before the First Call\n\nGood portfolio entries show the problem, the process, and the result. That is what helps a visitor believe the work can be repeated for them.\n\n## What to include\n\n- The client goal\n- What was built or improved\n- A few screenshots\n- A short result or benefit statement\n- A link to the live site if it is public\n\n## Why it works\n\nPeople buy confidence. A clear portfolio reduces hesitation because it shows that the team has solved real problems before.\n\n## Best practice\n\nKeep the description short, visual, and easy to scan. The goal is to make the next conversation easier, not to write a long report.",
         "status": "published",
         "ctaText": "View our portfolio",
-        "ctaUrl": "../pages/portfolio.html",
+        "ctaUrl": "../project.html",
         "author": "Megzier Group Ltd",
         "createdAt": "2026-04-26T09:00:00+03:00",
         "updatedAt": "2026-05-11T00:00:00+03:00"
